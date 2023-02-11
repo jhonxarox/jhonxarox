@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jhonxarox
 - 👀 I’m interested in Machine Learning, AI, Python and currently love to learn about Frontend
-- 🌱 I’m currently learning Angular, JavaScript
+- 🌱 I’m currently learning Go, Node.Js
 - 💞️ I’m looking to collaborate on Angular, Flutter based project or Machine Learning or any python project
 - 📫 How to reach me 📧 jhonarox22@gmai.com
 - 💤 Love to sleep
